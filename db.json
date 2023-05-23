@@ -1,0 +1,25 @@
+[{
+		"username": "user1",
+		"id": 1,
+		"score": 2,
+		"active": false
+	},
+	{
+		"username": "user2",
+		"id": 2,
+		"score": 3,
+		"active": false
+	},
+	{
+		"username": "user3",
+		"id": 3,
+		"score": 4,
+		"active": true
+	},
+	{
+		"username": "user4",
+		"id": 4,
+		"score": 5,
+		"active": true
+	}
+]
